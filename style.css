@@ -1,0 +1,51 @@
+  .heading
+  {
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+    font-size: 26px;
+    font-family:'Times New Roman', Times;
+  }
+  .heading_div
+  {
+    background: white ; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 6px 6px #2b3762;
+  }
+  .heading_div2
+  {
+    font-size: 18px ;
+  }
+  .result_para_tag 
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+    font-weight: bold;
+    font-family:'Times New Roman', Times;
+    background: linear-gradient(  #b31031, #faf7df, #b20a2c); 
+  }
+  .result_para_tag p {
+    white-space: pre-line;
+  }
+
+ .copy_right_footer{
+  padding: 3px;
+  background-color: #2b3762;
+  color: white;
+position: fixed;
+bottom: 11;
+width: 100%;
+text-shadow: rgb(1, 157, 171) 2px 2px;
+font-size: 21px;
+font-family:'Times New Roman', Times;
+box-shadow: rgb(102, 102, 91) 9px 9px 9px; 
+
+}
+
+canvas{
+  border-radius: 20px;
+  border: 3px double rebeccapurple;
+  box-shadow: 9px 9px 20px #2b3762;
+ 
+}
